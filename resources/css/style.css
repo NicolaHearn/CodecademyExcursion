@@ -1,24 +1,17 @@
 h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
-    color: white;
-    text-align: center
 }
+
 
 .downloadLink {
-    font-size: 16px;
-    font-weight: bold
-}
-
-.downloadLink a {
     color: aquamarine;
+    font-size: 16px
 }
 
 h2 {
     font-weight: 300;
     font-size: 42px;
-    color: white
 }
 
 .imageSection p {
@@ -34,5 +27,6 @@ h2 {
 body {
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center
+    text-align: center;
+    color: white
 }
