@@ -1,0 +1,21 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center
+}
+
+.downloadLink {
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold
+}
+
+.downloadLink a {
+    color: aquamarine;
+}
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
